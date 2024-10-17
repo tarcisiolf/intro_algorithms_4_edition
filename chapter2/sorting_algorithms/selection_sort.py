@@ -1,3 +1,9 @@
+"""
+Best Case - O(n²)
+Average Case - O(n²)
+Worst Case - O(n²)
+"""
+
 array = [4,2,1,3]
 
 def selection_sort(array):

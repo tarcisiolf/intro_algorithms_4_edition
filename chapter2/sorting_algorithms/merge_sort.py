@@ -1,5 +1,10 @@
-array = [12, 3, 7, 9, 14, 6, 11, 2]
+"""
+Best Case - O(n log(n))
+Average Case - O(n log(n))
+Worst Case - O(n log(n))
+"""
 
+array = [12, 3, 7, 9, 14, 6, 11, 2]
 
 def merge(A, p, q, r):
     nl = q - p + 1

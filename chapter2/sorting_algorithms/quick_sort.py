@@ -1,3 +1,9 @@
+"""
+Best Case - O(n log(n))
+Average Case - O(n log(n))
+Worst Case - O(n²)
+"""
+
 def partition(array, low, high):
     pivot = array[high]
     i = low - 1

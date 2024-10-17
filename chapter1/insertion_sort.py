@@ -1,3 +1,9 @@
+"""
+Best Case - O(n)
+Average Case - O(n²)
+Worst Case - O(n²)
+"""
+
 array1 = [5, 2, 4, 6, 1, 3]
 
 array2 = [31, 41, 59, 26, 41, 58]

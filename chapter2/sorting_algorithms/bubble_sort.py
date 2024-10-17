@@ -1,3 +1,9 @@
+"""
+Best Case - O(n)
+Average Case - O(n²)
+Worst Case - O(n²)
+"""
+
 my_array = [64, 34, 25, 12, 22, 11, 90, 5]
 
 n = len(my_array)
